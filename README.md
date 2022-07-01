@@ -5,7 +5,7 @@
 <p>Hi, I am a software developer.</p>
 <ul>
   <li>👋 Hi, I’m @abhishekrwt</li>
-  <li>🌱 I’m currently learning Web Development technologies like React, NodeJS, Express.</li>
+  <li>🌱 I’m currently learning Web Development technologies like Angular, .NET, NodeJS, Express.</li>
   <li>💼 I'm a Power Platform Developer at Cognizant.</li>
   <li>🧐 Portfolio Website, under construction.</li>
 </ul>
