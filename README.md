@@ -16,7 +16,7 @@
 const Ab = {
   name: "Abhishek Rawat",
   email: "abhishek.rawat1102@gmail.com",
-  code: ["Javascript", "C#", "C++", "HTML", "CSS"],
+  code: ["Javascript", "Typescript", "C#", "C++", "HTML", "CSS"],
   hobbies: ["photography", "backpacking in the wilderness", "basketball"]
 }
 ```
