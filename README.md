@@ -7,7 +7,6 @@
   <li>👋 Hi, I’m @abhishekrwt</li>
   <li>🌱 I’m currently learning Web technologies like Angular, .NET, NodeJS, Express.</li>
   <li>💼 I'm a Power Platform Developer at Cognizant.</li>
-  <li>🧐 Portfolio Website, under construction.</li>
 </ul>
 <br>
 
